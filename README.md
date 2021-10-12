@@ -1,5 +1,9 @@
-<h3>Tech Newsletters</h3>
+## Tech Newsletters
 
-[The Load Down](https://www.thisdot.co/newsletter/)<br>
-[JavaScript Weekly](https://javascriptweekly.com/)<br>
-[bytes](https://bytes.dev/)
+Here you will find a list of different tech newsletters that cover a vast array of different topics.
+
+We would love to know which tech newsletters you think deserve to be included in our list. If you'd like to contribute, please see [our contributing guidelines.](./CONTRIBUTING.md)
+
+- [The Load Down](https://www.thisdot.co/newsletter/)
+- [JavaScript Weekly](https://javascriptweekly.com/)
+- [bytes](https://bytes.dev/)
