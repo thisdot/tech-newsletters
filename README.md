@@ -7,3 +7,4 @@ We would love to know which tech newsletters you think deserve to be included in
 - [The Load Down](https://www.thisdot.co/newsletter/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [bytes](https://bytes.dev/)
+- [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/)
