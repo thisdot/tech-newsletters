@@ -8,3 +8,4 @@ We would love to know which tech newsletters you think deserve to be included in
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [bytes](https://bytes.dev/)
 - [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/)
+- [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
