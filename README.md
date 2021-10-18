@@ -19,3 +19,4 @@ ANGULAR
 
 VUE
 - [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/)
+- [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
