@@ -4,7 +4,10 @@ Here you will find a list of different tech newsletters that cover a vast array 
 
 We would love to know which tech newsletters you think deserve to be included in our list. If you'd like to contribute, please see [our contributing guidelines.](./CONTRIBUTING.md)
 
-GENERAAL JAVASCRIPT
+GENERAL
+- [Diversify Tech](https://www.diversifytech.co/)
+
+JAVASCRIPT
 
 - [The Load Down](https://www.thisdot.co/newsletter/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
