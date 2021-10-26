@@ -6,6 +6,9 @@ We would love to know which tech newsletters you think deserve to be included in
 
 GENERAL
 - [Diversify Tech](https://www.diversifytech.co/)
+- [Changelog Nightly](https://changelog.com/nightly/)
+- [Changelog Weekly](https://changelog.com/weekly)
+- [Frontend Weekly](https://frontendweekly.co/)
 
 JAVASCRIPT
 
