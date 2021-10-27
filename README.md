@@ -23,3 +23,7 @@ ANGULAR
 VUE
 - [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/)
 - [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+
+
+Current Research 
+https://www.google.com/search?q=tech+newsletters+2021&oq=tech+newsl&aqs=chrome.5.69i57j0i512l6j69i60.7260j0j1&sourceid=chrome&ie=UTF-8
