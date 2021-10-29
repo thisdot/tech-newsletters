@@ -5,14 +5,17 @@ Here you will find a list of different tech newsletters that cover a vast array 
 We would love to know which tech newsletters you think deserve to be included in our list. If you'd like to contribute, please see [our contributing guidelines.](./CONTRIBUTING.md)
 
 ### GENERAL
-- [Diversify Tech](https://www.diversifytech.co/)
 - [Benedict’s Newsletter](https://www.ben-evans.com/newsletter)
-- [TLDR](https://tldr.tech/)
 - [Bizarro Devs](https://bizzarodevs.com/)
-- [The Download](https://forms.technologyreview.com/newsletters/briefing-the-download/)
+- [Bloomberg - Fully Charged](https://link.mail.bloombergbusiness.com/public/11147896)
 - [Box of Amazing](https://boxofamazing.com)
+- [Dense Discovery](https://www.densediscovery.com/)
+- [Diversify Tech](https://www.diversifytech.co/)
+- [Other Valleys](https://www.othervalleys.net/)
+- [Sidebar.io](https://sidebar.io/)
 - [Software Defined Talk](https://us1.campaign-archive.com/home/?u=ce6149b4008d62a08093a4fa6&id=5877922e21)
-
+- [The Download](https://forms.technologyreview.com/newsletters/briefing-the-download/)
+- [TLDR](https://tldr.tech/)
 
 ### JAVASCRIPT
 - [The Load Down](https://www.thisdot.co/newsletter/)
