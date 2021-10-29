@@ -9,6 +9,9 @@ GENERAL
 - [Changelog Nightly](https://changelog.com/nightly/)
 - [Changelog Weekly](https://changelog.com/weekly)
 - [Frontend Weekly](https://frontendweekly.co/)
+- [GeePaw Weekly](https://www.geepawhill.org/)
+- [Stefan's Web Weekly](https://www.stefanjudis.com/newsletter/)
+- [Frontend Focus](https://frontendfoc.us/)
 
 JAVASCRIPT
 
