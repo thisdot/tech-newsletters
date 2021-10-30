@@ -21,23 +21,39 @@ We would love to know which tech newsletters you think deserve to be included in
 - [The Load Down](https://www.thisdot.co/newsletter/)
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [bytes](https://bytes.dev/)
+- [ES.Next News](http://esnextnews.com/)
+- [ JavaScript Kicks](http://javascriptkicks.com/)
+- [ Superhero.js](http://superherojs.com/)
+- [A Drip of JavaScript](http://adripofjavascript.com/)
+- [ Weekend Javascript ]()
+
 
 
 ### REACT
-- [React Newsletter](https://reactnewsletter.com/)
+- [Awesome React Newsletter](https://react.libhunt.com/newsletter)
+- [Next.js News](https://nextjsnews.com)
+- [React Digest](https://reactdigest.net/)
+- [React Explained](https://www.getrevue.co/profile/react-explained)
+- [ReactJS Newsletter](http://reactjsnewsletter.com/)
+- [React Native Newsletter](http://reactnative.cc/)
+- [React Status](https://react.statuscode.com/)
+- [The React Digest](https://www.getrevue.co/profile/the-react-digest)
+- [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe)
+- [This Week In React](https://this-week-in-react.org/)
+- [Tiny React](https://tinyreact.email)
 
 ### ANGULAR
 - 
 
 ### VUE
-- [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/)
-- [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+- [Vue.js Newsletter](https://news.vuejs.org)
+- [Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers)
+- [VueDose](https://vuedose.tips)
 
 
 ### DevOps
 - [ DevOps'ish](https://devopsish.com/)
 - [Devops Weekly](https://www.devopsweekly.com/)
--[]() 
 
 Current Research 
 https://www.google.com/search?q=tech+newsletters+2021&oq=tech+newsl&aqs=chrome.5.69i57j0i512l6j69i60.7260j0j1&sourceid=chrome&ie=UTF-8
