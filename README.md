@@ -11,6 +11,7 @@ GENERAL
 - [Changelog Nightly](https://changelog.com/nightly/)
 - [Changelog Weekly](https://changelog.com/weekly)
 - [Frontend Weekly](https://frontendweekly.co/)
+- [TechRepublic Developer Essentials](www.techrepublic.com/newsletters/)
 - [Sidebar](https://sidebar.io/)
 
 JAVASCRIPT
@@ -31,3 +32,11 @@ VUE
 
 - [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/)
 - [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+
+CLOUD COMPUTING
+- [InfoWorld All Things Cloud](https://www.infoworld.com/newsletters/signup.html)
+- [GeekWire Cloud Tech](https://www.geekwire.com/cloud/)
+- [Cloud Wars Newsletter](https://cloudwars.co/subscribe/cloud-wars-newsletter/)
+- [DigitalOcean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
+- [Last week in AWS](https://www.lastweekinaws.com/newsletter/)
+
