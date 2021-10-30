@@ -5,11 +5,14 @@ Here you will find a list of different tech newsletters that cover a vast array 
 We would love to know which tech newsletters you think deserve to be included in our list. If you'd like to contribute, please see [our contributing guidelines.](./CONTRIBUTING.md)
 
 GENERAL
+
+- [Accessibility Weekly](https://a11yweekly.com/)
 - [Diversify Tech](https://www.diversifytech.co/)
 - [Changelog Nightly](https://changelog.com/nightly/)
 - [Changelog Weekly](https://changelog.com/weekly)
 - [Frontend Weekly](https://frontendweekly.co/)
 - [TechRepublic Developer Essentials](www.techrepublic.com/newsletters/)
+- [Sidebar](https://sidebar.io/)
 
 JAVASCRIPT
 
@@ -17,14 +20,16 @@ JAVASCRIPT
 - [JavaScript Weekly](https://javascriptweekly.com/)
 - [bytes](https://bytes.dev/)
 
-
 REACT
+
 - [React Newsletter](https://reactnewsletter.com/)
 
 ANGULAR
-- 
+
+-
 
 VUE
+
 - [Vue.js Developers Newsletter](https://vuejsdevelopers.com/newsletter/)
 - [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
 
