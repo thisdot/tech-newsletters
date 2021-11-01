@@ -24,6 +24,7 @@ We would love to know which tech newsletters you think deserve to be included in
 - [Frontend Focus](https://frontendfoc.us/)
 - [TechRepublic Developer Essentials](www.techrepublic.com/newsletters/)
 - [GeePaw Weekly](https://www.geepawhill.org/)
+- [Virtual Coffee](https://virtualcoffee.io/newsletter/)
 
 
 
