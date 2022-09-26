@@ -13,6 +13,8 @@ We would love to know which tech newsletters you think deserve to be included in
 - [VUE](#vue)
 - [DevOps](#devops)
 - [CLOUD COMPUTING](#cloud-computing)
+- [TECH STARTUPS](#tech-startups)
+- [UI/UX](#uiux)
 
 ## GENERAL
 
@@ -65,6 +67,7 @@ We would love to know which tech newsletters you think deserve to be included in
 ## ANGULAR
 
 - [Angular Typescript Newsletter](https://fullstackfeed.com/angular-typescript-newsletter-most-intersting-and-updated-news-once-a-week/)
+- [Angular Weekly](https://www.getrevue.co/profile/angular-newsletter)
 
 ## VUE
 
@@ -85,3 +88,13 @@ We would love to know which tech newsletters you think deserve to be included in
 - [Cloud Wars Newsletter](https://cloudwars.co/subscribe/cloud-wars-newsletter/)
 - [DigitalOcean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
 - [Last week in AWS](https://www.lastweekinaws.com/newsletter/)
+
+## TECH STARTUPS
+
+- [StrictlyVC](https://www.strictlyvc.com/)
+- [Fundraising Fieldnotes](https://adamant.beehiiv.com/)
+
+## UI/UX
+
+- [UX Notebook](https://www.sarahdoody.com/ux-notebook-newsletter/)
+- [UX Beginner](https://www.uxbeginner.com/ux-newsletter/)
