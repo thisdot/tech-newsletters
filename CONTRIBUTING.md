@@ -21,7 +21,7 @@ Here are the following categories to contribute to:
 3. In the command line, clone the repository by typing `git clone https://github.com/YOUR-GITHUB-USERNAME/tech-newsletters.git`
 4. Then type `cd tech-newsletters` to go into the project's directory.
 5. Create a branch and switch to that new branch by using the following command: `git checkout -b new-branch-name`
-6. Update the `README.md` with your podcast suggestion(s).
+6. Update the `README.md` with your newsletter suggestion(s).
    - Append the title and link to the newsletter, to the list in the appropriate category
 7. In the command line, stage your changes by using the `git add .` command.
 8. Commit your changes by using the `git commit -m "commit message"` command.
