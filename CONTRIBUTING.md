@@ -13,6 +13,8 @@ Here are the following categories to contribute to:
 - VUE
 - DevOps
 - CLOUD COMPUTING
+- TECH STARTUPS
+- UI/UX
 
 ## How to contribute
 
