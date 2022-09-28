@@ -20,22 +20,18 @@ We would love to know which tech newsletters you think deserve to be included in
 
 - [Accessibility Weekly](https://a11yweekly.com/)
     > A weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy.
-    <br>
 - [Benedict’s Newsletter](https://www.ben-evans.com/newsletter)
     > What happened in tech that actually mattered, and what did it mean? Once a week.
 - [Bizarro Devs](https://bizzarodevs.com/)
     > A monthly newsletter with all the weird and wonderful tech news.
-    <br>
 - [Bloomberg - Fully Charged](https://link.mail.bloombergbusiness.com/public/11147896)
     > Get daily exclusive insights from Bloombergʼs technology reporters around the world in Fully Charged.
-    <br>
 - [Box of Amazing](https://boxofamazing.com)
     > A weekly digest covering knowledge, society, emerging technology, trends and extraordinary articles, hand-picked to broaden your mind and challenge your thinking.
-    <br>
 - [Dense Discovery](https://www.densediscovery.com/)
     > A thoughtful weekly newsletter to help you feel inspired, be productive & think critically.
-    <br>
 - [Diversify Tech](https://www.diversifytech.co/)
+    > A collection of resources for underrepresented people in tech
 - [Other Valleys](https://www.othervalleys.net/)
 - [Sidebar.io](https://sidebar.io/)
 - [Software Defined Talk](https://us1.campaign-archive.com/home/?u=ce6149b4008d62a08093a4fa6&id=5877922e21)
