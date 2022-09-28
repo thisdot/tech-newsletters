@@ -19,7 +19,11 @@ We would love to know which tech newsletters you think deserve to be included in
 ## GENERAL
 
 - [Accessibility Weekly](https://a11yweekly.com/)
+    A weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy.
+    <br>
 - [Benedict’s Newsletter](https://www.ben-evans.com/newsletter)
+    What happened in tech that actually mattered, and what did it mean? Once a week.
+    <br>
 - [Bizarro Devs](https://bizzarodevs.com/)
 - [Bloomberg - Fully Charged](https://link.mail.bloombergbusiness.com/public/11147896)
 - [Box of Amazing](https://boxofamazing.com)
