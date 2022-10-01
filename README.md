@@ -79,16 +79,21 @@ We would love to know which tech newsletters you think deserve to be included in
 ## REACT
 
 - [Awesome React Newsletter](https://react.libhunt.com/newsletter)
-- [Next.js News](https://nextjsnews.com)
+    > A weekly overview of the most popular React news, articles and projects.
 - [React Digest](https://reactdigest.net/)
+    > A carefully curated weekly newsletter for React developers to help you learn and stay on top of technology.
 - [React Explained](https://www.getrevue.co/profile/react-explained)
+    > A bi-weekly newsletter of amazing, curated React news and resources, simply explained.
 - [ReactJS Newsletter](http://reactjsnewsletter.com/)
+    > Stay up to date on the latest React news, tutorials, resources, and more.
 - [React Native Newsletter](http://reactnative.cc/)
+    > A curated, fun to read newsletter all about React Native.
 - [React Status](https://react.statuscode.com/)
+    > A weekly roundup of the latest React and React Native links and tutorials.
 - [The React Digest](https://www.getrevue.co/profile/the-react-digest)
-- [The React Newsletter](http://theproblemsolver.nl/TheReactNewsletter/Subscribe)
+    > A hand-picked weekly selection of the best React JS resources.
 - [This Week In React](https://this-week-in-react.org/)
-- [Tiny React](https://tinyreact.email)
+    > Regular coverage of interesting pull requests, discussions, and RFCs around React Core and React DOM.
 
 ## ANGULAR
 
@@ -100,9 +105,13 @@ We would love to know which tech newsletters you think deserve to be included in
 ## VUE
 
 - [Vue.js Newsletter](https://news.vuejs.org)
+    > Providing Vue developers with the latest news and tutorials to stay up-to-date with their technology.
 - [Vue.js Developers Newsletter](https://www.getrevue.co/profile/vuejs-developers)
+    > The Vue.js Developers Newsletter is a weekly curated publication of the best articles, latest news and coolest Vue projects.
 - [VueDose](https://vuedose.tips)
+    > Learn Vue, dose by dose.
 - [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
+    > Useful front-end & UX bits, delivered once a week.
 
 ## DevOps
 
@@ -114,10 +123,15 @@ We would love to know which tech newsletters you think deserve to be included in
 ## CLOUD COMPUTING
 
 - [InfoWorld All Things Cloud](https://www.infoworld.com/newsletters/signup.html)
+    > The latest news and insights on cloud computing
 - [GeekWire Cloud Tech](https://www.geekwire.com/cloud/)
+    > GeekWire’s Cloud Tech channel breaks news and explores key trends in cloud computing, DevOps, enterprise technologies and more.
 - [Cloud Wars Newsletter](https://cloudwars.co/subscribe/cloud-wars-newsletter/)
+    > Customer-centric analysis about business technology, the digital economy, and where the world’s headed.
 - [DigitalOcean Infrastructure as a Newsletter](https://www.digitalocean.com/community/newsletter)
+    > Get DigitalOcean's roundup of sysadmin tutorials and open source happenings
 - [Last week in AWS](https://www.lastweekinaws.com/newsletter/)
+    > Chief Cloud Economist Corey Quinn goes through the torrent of news about Amazon’s cloud ecosystem and strains out the noise. Then he takes what’s left and gently and lovingly makes fun of it.
 
 ## TECH STARTUPS
 
