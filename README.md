@@ -146,3 +146,11 @@ We would love to know which tech newsletters you think deserve to be included in
     > The UX Notebook is a UX newsletter curated by Sarah Doody.
 - [UX Beginner](https://www.uxbeginner.com/ux-newsletter/)
     > Join more than 7000 UXers and get weekly UX news, updates and training in a newsletter that levels up your design knowledge.
+- [Boagworld](https://boagworld.com/subscribe)
+    > Receive inspiration and training on user experience design, digital marketing, digital leadership and conversion optimisation every one to two weeks, as well as exclusive content and early access.
+- [Interactive Design Foundation](https://www.interaction-design.org/newsletter)
+    > Join 307,008 designers and get weekly inspiration and design tips in your inbox.
+- [Prototypr](https://prototypr.io/)
+    > Get hand-picked design articles, tips and tools, straight to your inbox. No paywalls, just good stuff.
+- [UX Design Weekly](https://uxdesignweekly.com/)
+    > Join 36,127 people & get a hand picked list of the best user experience design links every week. Curated by Kenny Chen & published every Monday.
