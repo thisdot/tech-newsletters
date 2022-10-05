@@ -15,6 +15,7 @@ We would love to know which tech newsletters you think deserve to be included in
 - [CLOUD COMPUTING](#cloud-computing)
 - [TECH STARTUPS](#tech-startups)
 - [UI/UX](#uiux)
+- [BLOCKCHAIN](#blockchain)
 
 ## GENERAL
 
@@ -156,3 +157,7 @@ We would love to know which tech newsletters you think deserve to be included in
     > Get hand-picked design articles, tips and tools, straight to your inbox. No paywalls, just good stuff.
 - [UX Design Weekly](https://uxdesignweekly.com/)
     > Join 36,127 people & get a hand picked list of the best user experience design links every week. Curated by Kenny Chen & published every Monday.
+
+## BLOCKCHAIN
+- [IBM Supply Chain & Blockchain Blog](https://www.ibm.com/blogs/blockchain/category/blockchain-newsletter/)
+    > Monthly topics garnering news coverage and attention within the blockchain industry.
