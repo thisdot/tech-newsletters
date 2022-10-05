@@ -75,6 +75,8 @@ We would love to know which tech newsletters you think deserve to be included in
     >  A collection of the best articles, videos and presentations found that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
 - [A Drip of JavaScript](http://adripofjavascript.com/)
     > One quick JavaScript tip, delivered to your inbox every other week.
+- [Awesome JavaScript Weekly](https://js.libhunt.com/newsletter)
+    > A weekly overview of the most popular JavaScript news, articles and projects
 
 ## REACT
 
@@ -119,6 +121,10 @@ We would love to know which tech newsletters you think deserve to be included in
     > Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between.
 - [Devops Weekly](https://www.devopsweekly.com/)
     > A weekly slice of devops news brought to you by Gareth Rushgrove.
+- [KubeWeekly](https://kubeweekly.io/)
+    > The weekly newsletter for all things Kubernetes and beyond.
+- [This Week in DevOps](https://thisweekindevops.com/)
+    > DevOps news without the hype.
 
 ## CLOUD COMPUTING
 
