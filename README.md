@@ -119,6 +119,8 @@ We would love to know which tech newsletters you think deserve to be included in
     > Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between.
 - [Devops Weekly](https://www.devopsweekly.com/)
     > A weekly slice of devops news brought to you by Gareth Rushgrove.
+- [This Week in DevOps](https://thisweekindevops.com/)
+    > DevOps news without the hype.
 
 ## CLOUD COMPUTING
 
