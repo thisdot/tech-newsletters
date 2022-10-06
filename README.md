@@ -111,6 +111,8 @@ We would love to know which tech newsletters you think deserve to be included in
     > The Vue.js Developers Newsletter is a weekly curated publication of the best articles, latest news and coolest Vue projects.
 - [VueDose](https://vuedose.tips)
     > Learn Vue, dose by dose.
+- [Michael Thiessen Newsletter](https://michaelnthiessen.com/newsletter)
+    >This is great Newsletter by Michael Thiessen for sharing tips and tricks for VueJS.
 - [Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)
     > Useful front-end & UX bits, delivered once a week.
 
