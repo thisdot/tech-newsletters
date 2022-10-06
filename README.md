@@ -76,6 +76,8 @@ We would love to know which tech newsletters you think deserve to be included in
     >  A collection of the best articles, videos and presentations found that help explain the syntax of JavaScript, how to organize your projects, how to test your code, and what's on the horizon.
 - [A Drip of JavaScript](http://adripofjavascript.com/)
     > One quick JavaScript tip, delivered to your inbox every other week.
+- [Node Weekly](https://nodeweekly.com/)
+    > A free, once–weekly e-mail round-up of Node.js news and articles.
 
 ## REACT
 
