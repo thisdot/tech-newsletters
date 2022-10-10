@@ -166,5 +166,5 @@ We would love to know which tech newsletters you think deserve to be included in
 
 - [IBM Supply Chain & Blockchain Blog](https://www.ibm.com/blogs/blockchain/category/blockchain-newsletter/)
     > Monthly topics garnering news coverage and attention within the blockchain industry.
-- [Rekt News](https://doshbot.us8.list-manage.com/subscribe?u=4db8948c1d40f1c0e7af494fd&id=798585766e/)
+- [Rekt News](https://rekt.news/)
     > Join the dark web of DeFi Journalism.
