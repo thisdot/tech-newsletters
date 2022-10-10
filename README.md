@@ -163,5 +163,8 @@ We would love to know which tech newsletters you think deserve to be included in
     > Join 36,127 people & get a hand picked list of the best user experience design links every week. Curated by Kenny Chen & published every Monday.
 
 ## BLOCKCHAIN
+
 - [IBM Supply Chain & Blockchain Blog](https://www.ibm.com/blogs/blockchain/category/blockchain-newsletter/)
     > Monthly topics garnering news coverage and attention within the blockchain industry.
+- [Rekt News](https://rekt.news/)
+    > Join the dark web of DeFi Journalism.
