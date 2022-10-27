@@ -56,6 +56,8 @@ We would love to know which tech newsletters you think deserve to be included in
     > Sign up to start every week with quick-to-read Web Development learnings, productivity tricks, useful GitHub projects, #devsheets and music that keeps you going.
 - [TechRepublic Developer Essentials](www.techrepublic.com/newsletters/)
     > The TechRepublic team has one simple goal: helping you make great decisions about technology.    
+- [The Daily Byte](https://thedailybyte.dev)
+    > A single problem each day, in an order that encourages learning as opposed to rote memorization.
 - [The Download](https://forms.technologyreview.com/newsletters/briefing-the-download/)
     > Your daily dose of what's up in emerging technology.
 - [TLDR](https://tldr.tech/)
