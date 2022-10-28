@@ -107,6 +107,8 @@ We would love to know which tech newsletters you think deserve to be included in
     > This page contains the tens of newsletters posted in the last few years. The weekly newsletters focus on Angular, TypeScript and the combination of them.
 - [Angular Weekly](https://www.getrevue.co/profile/angular-newsletter)
     > Angular Weekly is a summary of #angular related topics and news from the last week.
+- [The Deep Dive](https://indepth.dev/newsletter)
+    > Welcome to The Deep Dive, a newsletter with focus on advanced web development, written and curated by Max Koretskyi and inDepthDev team.
 
 ## VUE
 
