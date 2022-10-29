@@ -48,6 +48,8 @@ We would love to know which tech newsletters you think deserve to be included in
     > A newsletter from the perspective of a recruiter trying to make the job search less terrifying to everyone in tech.
 - [Other Valleys](https://www.othervalleys.net/)
     > Tracking emerging markets' innovation, technology, business and creativity.
+- [rendezvous with cassidoo](https://cassidoo.co/newsletter/)
+    > A weekly newsletter with new and cool things in tech, interview question of the week, jokes, stories and occasional pictures of lovely mechanical keyboards.
 - [Sidebar.io](https://sidebar.io/)
     > Sidebar has been collecting the best design links of the day since October 2012. It's maintained by Sacha Greif and built with Vulcan.js. Sidebar's code is open-source and available on GitHub.
 - [Software Defined Talk](https://us1.campaign-archive.com/home/?u=ce6149b4008d62a08093a4fa6&id=5877922e21)
