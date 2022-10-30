@@ -132,6 +132,8 @@ We would love to know which tech newsletters you think deserve to be included in
 
 - [ DevOps'ish](https://devopsish.com/)
     > Cloud Native, DevOps, GitOps, Open Source, industry news, culture, and the ‘ish between.
+- [DevOps Online](https://www.devopsonline.co.uk/)
+    > Keep up to date with latest news and insights on DevOps.
 - [Devops Weekly](https://www.devopsweekly.com/)
     > A weekly slice of DevOps news brought to you by Gareth Rushgrove.
 - [This Week in DevOps](https://thisweekindevops.com/)
