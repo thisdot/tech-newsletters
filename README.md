@@ -46,6 +46,8 @@ We would love to know which tech newsletters you think deserve to be included in
     > A community of like-minded teams and individuals pushing forward the industry of software development.    
 - [guidance counselor 2.0 newsletter](https://www.getrevue.co/profile/tdesseyn) 
     > A newsletter from the perspective of a recruiter trying to make the job search less terrifying to everyone in tech.
+- [SaaS Bites](https://saasbites.substack.com) 
+    > Latest news, tips, and tools for SaaS growth, marketing, and product management.
 - [Other Valleys](https://www.othervalleys.net/)
     > Tracking emerging markets' innovation, technology, business and creativity.
 - [rendezvous with cassidoo](https://cassidoo.co/newsletter/)
