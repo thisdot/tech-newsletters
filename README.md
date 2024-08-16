@@ -58,6 +58,8 @@ We would love to know which tech newsletters you think deserve to be included in
     > A podcast about Enterprise Software and Cloud Computing that doesn't take itself too seriously.
 - [Stefan's Web Weekly](https://www.stefanjudis.com/newsletter/)
     > Sign up to start every week with quick-to-read Web Development learnings, productivity tricks, useful GitHub projects, #devsheets and music that keeps you going.
+- [Techpresso](https://dupple.com/techpresso)
+    > Join 100,000+ free daily readers for the latest tech news, tools and insights.
 - [TechRepublic Developer Essentials](www.techrepublic.com/newsletters/)
     > The TechRepublic team has one simple goal: helping you make great decisions about technology.    
 - [The Daily Byte](https://thedailybyte.dev)
