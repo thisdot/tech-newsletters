@@ -56,8 +56,6 @@ We would love to know which tech newsletters you think deserve to be included in
     > Sidebar has been collecting the best design links of the day since October 2012. It's maintained by Sacha Greif and built with Vulcan.js. Sidebar's code is open-source and available on GitHub.
 - [Software Defined Talk](https://us1.campaign-archive.com/home/?u=ce6149b4008d62a08093a4fa6&id=5877922e21)
     > A podcast about Enterprise Software and Cloud Computing that doesn't take itself too seriously.
-- [Stefan's Web Weekly](https://www.stefanjudis.com/newsletter/)
-    > Sign up to start every week with quick-to-read Web Development learnings, productivity tricks, useful GitHub projects, #devsheets and music that keeps you going.
 - [Techpresso](https://dupple.com/techpresso)
     > Join 100,000+ free daily readers for the latest tech news, tools and insights.
 - [TechRepublic Developer Essentials](www.techrepublic.com/newsletters/)
@@ -70,6 +68,8 @@ We would love to know which tech newsletters you think deserve to be included in
     > Byte-sized news for busy techies.
 - [Virtual Coffee](https://virtualcoffee.io/newsletter/)
     > Keep up to date with all things Virtual Coffee with the monthly Newsletter!
+- [Web Weekly](https://webweekly.email/)
+    > Sign up to start every week with quick-to-read Web Development learnings, productivity tricks, useful GitHub projects, and music that keeps you going.
 
 ## JAVASCRIPT
 
