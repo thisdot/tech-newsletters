@@ -22,6 +22,8 @@ We would love to know which tech newsletters you think deserve to be included in
 
 - [Accessibility Weekly](https://a11yweekly.com/)
     > A weekly dose of web accessibility to help you bring it into your everyday work. Delivered to your inbox each Monday, curated by David A. Kennedy.
+- [AI Weekly](https://aiweekly.co/)
+    > Discover what AI experts are reading and sharing right now, ranked and explained for 53,000+ professionals. Delivered three times a week.
 - [Benedict’s Newsletter](https://www.ben-evans.com/newsletter)
     > What happened in tech that actually mattered, and what did it mean? Delivered once a week.
 - [Bizarro Devs](https://bizzarodevs.com/)
